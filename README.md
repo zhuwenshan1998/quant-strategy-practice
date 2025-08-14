@@ -1,4 +1,4 @@
-# quant & trading Strategy Intro
+# quant & trading strategy intro
 
 **Practice repository for basic quantitative trading strategies and backtesting.**
 
